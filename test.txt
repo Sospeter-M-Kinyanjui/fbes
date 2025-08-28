@@ -1,0 +1,1 @@
+Welcome to golangdemonstrate reading and writing operations to a file in golang.
